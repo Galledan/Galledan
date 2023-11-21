@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">I'm a new gradutate Software Engineer from Turkey</h3>
 
-- 👨‍💻 All of my projects are available at [onurcelikler.com](onurcelikler.com)
+- 👨‍💻 All of my projects are available at [onurcelikler.com.tr](wwww.onurcelikler.com.tr)
 
 - 📫 How to reach me **onrclklr@gmail.com**
 
