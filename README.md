@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Onur from Türkiye<br><br>- 🔭 I’m currently unemployed<br>- 📚 I'm currently learning React Native and Next.js<br>- 👨‍💻 All of my projects are available at <a href="https:/www.onurcelikler.com.tr">onurcelikler.com.tr</a></p>
+<p align="left">I'm Onur from Türkiye<br><br>- 🔭 I’m currently unemployed<br>- 📚 I'm currently learning Typescript and Next.js<br>- 👨‍💻 All of my projects are available at <a href="https:/www.onurcelikler.netlify.app">onurcelikler.netlify.app</a></p>
 
 ###
 
